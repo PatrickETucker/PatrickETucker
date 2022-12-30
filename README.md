@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my full stack portfolio.<br>💬 Ask me about my time attending Merit America's Full Stack Java Development Program.<br>⚡ Fun fact: I used to play guitar and manage my band. [We Are Pancakes](https://open.spotify.com/artist/6fXnGMzDq58w5kG0aRYGhd?si=Llt5Vu1fQOOPPf762eb_bA)
+🔭 I’m currently working on my full stack portfolio.<br>💬 Ask me about my time attending Merit America's Full Stack Java Development Program.<br>⚡ Fun fact: I used to play guitar and manage my band [We Are Pancakes](https://open.spotify.com/artist/6fXnGMzDq58w5kG0aRYGhd?si=Llt5Vu1fQOOPPf762eb_bA)
 
 
 ## 🌐 Socials:
